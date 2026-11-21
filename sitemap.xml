@@ -103,6 +103,26 @@
     <priority>0.5</priority>
   </url>
 
+  <!-- 售後服務 -->
+  <url>
+    <loc>https://www.changankuayue.hk/service</loc>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://www.changankuayue.hk/service" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.changankuayue.hk/en/service" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.changankuayue.hk/service" />
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.changankuayue.hk/en/service</loc>
+    <xhtml:link rel="alternate" hreflang="zh-HK" href="https://www.changankuayue.hk/service" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.changankuayue.hk/en/service" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.changankuayue.hk/service" />
+    <lastmod>2026-11-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
   <!-- 聯絡方式 -->
   <url>
     <loc>https://www.changankuayue.hk/contact</loc>
